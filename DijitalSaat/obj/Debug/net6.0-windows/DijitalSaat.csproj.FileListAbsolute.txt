@@ -1,0 +1,16 @@
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\DijitalSaat\bin\Debug\net6.0-windows\DijitalSaat.exe
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\DijitalSaat\bin\Debug\net6.0-windows\DijitalSaat.deps.json
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\DijitalSaat\bin\Debug\net6.0-windows\DijitalSaat.runtimeconfig.json
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\DijitalSaat\bin\Debug\net6.0-windows\DijitalSaat.dll
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\DijitalSaat\bin\Debug\net6.0-windows\DijitalSaat.pdb
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\DijitalSaat\obj\Debug\net6.0-windows\DijitalSaat.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\DijitalSaat\obj\Debug\net6.0-windows\DijitalSaat.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\DijitalSaat\obj\Debug\net6.0-windows\DijitalSaat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\DijitalSaat\obj\Debug\net6.0-windows\DijitalSaat.AssemblyInfoInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\DijitalSaat\obj\Debug\net6.0-windows\DijitalSaat.AssemblyInfo.cs
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\DijitalSaat\obj\Debug\net6.0-windows\DijitalSaat.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\DijitalSaat\obj\Debug\net6.0-windows\DijitalSaat.dll
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\DijitalSaat\obj\Debug\net6.0-windows\refint\DijitalSaat.dll
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\DijitalSaat\obj\Debug\net6.0-windows\DijitalSaat.pdb
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\DijitalSaat\obj\Debug\net6.0-windows\DijitalSaat.genruntimeconfig.cache
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\DijitalSaat\obj\Debug\net6.0-windows\ref\DijitalSaat.dll
