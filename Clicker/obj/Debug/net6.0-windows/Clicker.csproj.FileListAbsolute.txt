@@ -1,0 +1,17 @@
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\Clicker\bin\Debug\net6.0-windows\Clicker.exe
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\Clicker\bin\Debug\net6.0-windows\Clicker.deps.json
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\Clicker\bin\Debug\net6.0-windows\Clicker.runtimeconfig.json
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\Clicker\bin\Debug\net6.0-windows\Clicker.dll
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\Clicker\bin\Debug\net6.0-windows\Clicker.pdb
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\Clicker\obj\Debug\net6.0-windows\Clicker.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\Clicker\obj\Debug\net6.0-windows\Clicker.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\Clicker\obj\Debug\net6.0-windows\Clicker.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\Clicker\obj\Debug\net6.0-windows\Clicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\Clicker\obj\Debug\net6.0-windows\Clicker.AssemblyInfoInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\Clicker\obj\Debug\net6.0-windows\Clicker.AssemblyInfo.cs
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\Clicker\obj\Debug\net6.0-windows\Clicker.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\Clicker\obj\Debug\net6.0-windows\Clicker.dll
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\Clicker\obj\Debug\net6.0-windows\refint\Clicker.dll
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\Clicker\obj\Debug\net6.0-windows\Clicker.pdb
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\Clicker\obj\Debug\net6.0-windows\Clicker.genruntimeconfig.cache
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\Clicker\obj\Debug\net6.0-windows\ref\Clicker.dll
