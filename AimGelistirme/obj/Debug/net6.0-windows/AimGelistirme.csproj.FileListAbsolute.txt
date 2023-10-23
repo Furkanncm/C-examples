@@ -1,0 +1,17 @@
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\AimGelistirme\bin\Debug\net6.0-windows\AimGelistirme.exe
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\AimGelistirme\bin\Debug\net6.0-windows\AimGelistirme.deps.json
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\AimGelistirme\bin\Debug\net6.0-windows\AimGelistirme.runtimeconfig.json
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\AimGelistirme\bin\Debug\net6.0-windows\AimGelistirme.dll
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\AimGelistirme\bin\Debug\net6.0-windows\AimGelistirme.pdb
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\AimGelistirme\obj\Debug\net6.0-windows\AimGelistirme.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\AimGelistirme\obj\Debug\net6.0-windows\AimGelistirme.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\AimGelistirme\obj\Debug\net6.0-windows\AimGelistirme.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\AimGelistirme\obj\Debug\net6.0-windows\AimGelistirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\AimGelistirme\obj\Debug\net6.0-windows\AimGelistirme.AssemblyInfoInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\AimGelistirme\obj\Debug\net6.0-windows\AimGelistirme.AssemblyInfo.cs
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\AimGelistirme\obj\Debug\net6.0-windows\AimGelistirme.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\AimGelistirme\obj\Debug\net6.0-windows\AimGelistirme.dll
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\AimGelistirme\obj\Debug\net6.0-windows\refint\AimGelistirme.dll
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\AimGelistirme\obj\Debug\net6.0-windows\AimGelistirme.pdb
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\AimGelistirme\obj\Debug\net6.0-windows\AimGelistirme.genruntimeconfig.cache
+C:\Users\furka\OneDrive\Masaüstü\Yeni klasör (2)\AimGelistirme\obj\Debug\net6.0-windows\ref\AimGelistirme.dll
