@@ -1,7 +1,0 @@
-C:\Users\furka\OneDrive\Masaüstü\C#\vize2\obj\Debug\vize2.csproj.AssemblyReference.cache
-C:\Users\furka\OneDrive\Masaüstü\C#\vize2\obj\Debug\vize2.csproj.CoreCompileInputs.cache
-C:\Users\furka\OneDrive\Masaüstü\C#\vize2\bin\Debug\vize2.exe.config
-C:\Users\furka\OneDrive\Masaüstü\C#\vize2\bin\Debug\vize2.exe
-C:\Users\furka\OneDrive\Masaüstü\C#\vize2\bin\Debug\vize2.pdb
-C:\Users\furka\OneDrive\Masaüstü\C#\vize2\obj\Debug\vize2.exe
-C:\Users\furka\OneDrive\Masaüstü\C#\vize2\obj\Debug\vize2.pdb
