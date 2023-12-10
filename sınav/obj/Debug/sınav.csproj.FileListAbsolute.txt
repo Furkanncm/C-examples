@@ -1,0 +1,10 @@
+C:\Users\furka\OneDrive\Masaüstü\C#\sınav\bin\Debug\sınav.exe.config
+C:\Users\furka\OneDrive\Masaüstü\C#\sınav\bin\Debug\sınav.exe
+C:\Users\furka\OneDrive\Masaüstü\C#\sınav\bin\Debug\sınav.pdb
+C:\Users\furka\OneDrive\Masaüstü\C#\sınav\obj\Debug\sınav.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\C#\sınav\obj\Debug\sınav.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\C#\sınav\obj\Debug\sınav.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\C#\sınav\obj\Debug\sınav.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\C#\sınav\obj\Debug\sınav.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\C#\sınav\obj\Debug\sınav.exe
+C:\Users\furka\OneDrive\Masaüstü\C#\sınav\obj\Debug\sınav.pdb
