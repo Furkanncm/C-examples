@@ -1,0 +1,10 @@
+C:\Users\furka\OneDrive\Masaüstü\C#\Bresenham2\bin\Debug\Bresenham2.exe.config
+C:\Users\furka\OneDrive\Masaüstü\C#\Bresenham2\bin\Debug\Bresenham2.exe
+C:\Users\furka\OneDrive\Masaüstü\C#\Bresenham2\bin\Debug\Bresenham2.pdb
+C:\Users\furka\OneDrive\Masaüstü\C#\Bresenham2\obj\Debug\Bresenham2.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\C#\Bresenham2\obj\Debug\Bresenham2.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\C#\Bresenham2\obj\Debug\Bresenham2.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\C#\Bresenham2\obj\Debug\Bresenham2.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\C#\Bresenham2\obj\Debug\Bresenham2.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\C#\Bresenham2\obj\Debug\Bresenham2.exe
+C:\Users\furka\OneDrive\Masaüstü\C#\Bresenham2\obj\Debug\Bresenham2.pdb
