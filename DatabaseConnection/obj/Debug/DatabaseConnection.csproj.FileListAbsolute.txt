@@ -1,0 +1,10 @@
+C:\Users\furka\OneDrive\Masaüstü\C#\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\C#\DatabaseConnection\obj\Debug\DatabaseConnection.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\C#\DatabaseConnection\obj\Debug\DatabaseConnection.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\C#\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\C#\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\C#\DatabaseConnection\bin\Debug\DatabaseConnection.exe.config
+C:\Users\furka\OneDrive\Masaüstü\C#\DatabaseConnection\bin\Debug\DatabaseConnection.exe
+C:\Users\furka\OneDrive\Masaüstü\C#\DatabaseConnection\bin\Debug\DatabaseConnection.pdb
+C:\Users\furka\OneDrive\Masaüstü\C#\DatabaseConnection\obj\Debug\DatabaseConnection.exe
+C:\Users\furka\OneDrive\Masaüstü\C#\DatabaseConnection\obj\Debug\DatabaseConnection.pdb
